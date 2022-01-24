@@ -1,0 +1,16 @@
+C:\Users\emret\source\repos\homework3\homework3\bin\Debug\net5.0\homework3.exe
+C:\Users\emret\source\repos\homework3\homework3\bin\Debug\net5.0\homework3.deps.json
+C:\Users\emret\source\repos\homework3\homework3\bin\Debug\net5.0\homework3.runtimeconfig.json
+C:\Users\emret\source\repos\homework3\homework3\bin\Debug\net5.0\homework3.runtimeconfig.dev.json
+C:\Users\emret\source\repos\homework3\homework3\bin\Debug\net5.0\homework3.dll
+C:\Users\emret\source\repos\homework3\homework3\bin\Debug\net5.0\ref\homework3.dll
+C:\Users\emret\source\repos\homework3\homework3\bin\Debug\net5.0\homework3.pdb
+C:\Users\emret\source\repos\homework3\homework3\obj\Debug\net5.0\homework3.csproj.AssemblyReference.cache
+C:\Users\emret\source\repos\homework3\homework3\obj\Debug\net5.0\homework3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emret\source\repos\homework3\homework3\obj\Debug\net5.0\homework3.AssemblyInfoInputs.cache
+C:\Users\emret\source\repos\homework3\homework3\obj\Debug\net5.0\homework3.AssemblyInfo.cs
+C:\Users\emret\source\repos\homework3\homework3\obj\Debug\net5.0\homework3.csproj.CoreCompileInputs.cache
+C:\Users\emret\source\repos\homework3\homework3\obj\Debug\net5.0\homework3.dll
+C:\Users\emret\source\repos\homework3\homework3\obj\Debug\net5.0\ref\homework3.dll
+C:\Users\emret\source\repos\homework3\homework3\obj\Debug\net5.0\homework3.pdb
+C:\Users\emret\source\repos\homework3\homework3\obj\Debug\net5.0\homework3.genruntimeconfig.cache
